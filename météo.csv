@@ -1,0 +1,22 @@
+Jour,Ville,Température,Vent,Evènement
+1/1/2020,Paris,32,6,Soleil
+1/2/2020,Paris,35,3,Pluie
+1/3/2020,Paris,27,2,Neige
+1/4/2020,Paris,32,4,Neige
+1/5/2020,Paris,24,6,Soleil
+1/5/2020,Lyon,12,7,Soleil
+28/4/2020,Le Mans,17,20,Soleil
+28/4/2020,Paris,19,5,Pluie
+28/04/2020,Thorée-Les-Pins,18,20,Soleil
+1/5/2020,Florac,19,7,Soleil
+12/02/2020,Florac,-2,34,Neige
+1/1/2020,Florac,-10,0,Soleil
+2/2/2020,Toulouse,3,27,Pluie
+1/1/2020,Paris,10,6,Pluie
+23/04/2020,Paris,17,8,Nuageux
+20/04/2020,Thorée-Les-Pins,18,12,Soleil
+14/03/2020,Paris,19,9,Nuageux
+14/03/2020,Thorée-Les-Pins,16,2,Nuageux
+14/03/2020,Toulouse,10,23,Nuageux
+14/03/2020,Florac,11,20,Nuageux
+14/03/20,Le Mans, 13,3,Nuageux
